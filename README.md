@@ -25,3 +25,5 @@ Handles the dynamic simulation of an interview with multiple turns.
 
 The graph is shown below:
 
+![Graph](https://github.com/user-attachments/assets/491e4403-ad34-408f-a6fd-7deab42c6833)
+
